@@ -40,7 +40,7 @@
 
 ## 🚀 Projects
 
-### 🧠 Text-to-SQL with a 4B SLM — 산업 시계열 데이터
+### Text-to-SQL with a 4B SLM — 산업 시계열 데이터
 > 연구 · 1저자 · Gemma-3 4B · LoRA · SQLite · 단일 GPU(RTX 5090) · 국가과제 데이터라 코드는 공개 준비 중
 
 보안 때문에 클라우드 AI를 쓸 수 없는 산업 현장에서, SQL을 모르는 실무자가 **자연어로 약 300만 건의 전력 데이터를 조회**하도록 4B 모델에 자동 검증 루프를 붙였습니다.
@@ -51,7 +51,7 @@
 
 ---
 
-### 🕸️ Self-Correcting GraphRAG Agent — 자가수정 루프의 지식그래프 이식
+### Self-Correcting GraphRAG Agent — 자가수정 루프의 지식그래프 이식
 > 개인 프로젝트 · LangGraph · NetworkX · ollama(qwen2.5-coder:7b) · LangSmith · [Repo](https://github.com/freaks0/graphrag-agent)
 
 SQL 논문의 EXPLAIN 자가수정 루프를 지식그래프 질의로 옮겨, 파인튜닝하지 않은 SLM이 어디까지 되고 어디서 무너지는지 측정했습니다.
@@ -62,7 +62,7 @@ SQL 논문의 EXPLAIN 자가수정 루프를 지식그래프 질의로 옮겨, �
 
 ---
 
-### 📈 Industrial Power Anomaly Detection — 업종 조건화 전략 비교
+### Industrial Power Anomaly Detection — 업종 조건화 전략 비교
 > 연구 · 1저자 · NBEATSx · FiLM · Hypernetwork · VUS-PR
 
 라벨이 없는 산업 전력 데이터에서, 업종 정보를 모델에 넣는 방식 5가지가 이상탐지 성능을 어떻게 바꾸는지 비교했습니다.
@@ -73,7 +73,7 @@ SQL 논문의 EXPLAIN 자가수정 루프를 지식그래프 질의로 옮겨, �
 
 ---
 
-### 🌵 Catus — 청년 정서 지원 앱
+### Catus — 청년 정서 지원 앱
 > 창업동아리 · 기획 · UI 디자인 · 개발 전담 · 배포 전 프로젝트 중단
 
 AI 고양이와의 대화로 그림일기를 만들고, 익명 응원 편지로 선인장을 키우는 청년 정서 지원 앱입니다.
@@ -82,7 +82,7 @@ AI 고양이와의 대화로 그림일기를 만들고, 익명 응원 편지로 
 
 ---
 
-### 🤝 KOCO — 외국인 근로자 AI 동반자
+### KOCO — 외국인 근로자 AI 동반자
 > 새싹창업캠프 해커톤 **최우수상** · 4인 팀 · 하루 안에 기획부터 시연까지 · 시연은 AI 빌더 도구로 제작
 
 E-9 비자 근로자가 급여·비자·사업장 변경 정보를 이해하기 어렵다는 문제에서 출발한 서비스입니다.
