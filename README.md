@@ -28,6 +28,7 @@ SQL을 몰라 데이터를 직접 조회하지 못하는 현장, 이미 고립�
 ## 🚀 Projects
 
 ### Catus — 고립 전 청년을 위한 대화형 감정 기록 서비스
+[Live Demo](https://catus-app.vercel.app) · [저장소·기술 문서](https://github.com/freaks0/catus-backend)
 
 마음돌봄 서비스는 힘들어진 사람이 "찾아와야" 시작되지만, 이미 고립된 청년은
 서비스를 찾지 않습니다.  
@@ -42,8 +43,6 @@ AI가 대화에 없던 감정을 일기에 지어내지 못하게 하는 사실 
 
 - 기획 - 개발 - 배포 - 운영 1인 수행
 - Spring Boot 3 · PostgreSQL · Gemini · React 19
-
-[Live Demo](https://catus-app.vercel.app) · [저장소·기술 문서](https://github.com/freaks0/catus-backend) · [트러블슈팅](https://github.com/freaks0/catus-backend/blob/main/docs/04-troubleshooting.md)
 
 ### RealCite — AI 논문 인용 검증 도구
 > 개인 프로젝트 · TypeScript · Cloudflare Pages · [Live](https://citeguard-bzv.pages.dev) · [Repo](https://github.com/freaks0/realcite)
