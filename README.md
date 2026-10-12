@@ -27,18 +27,23 @@ SQL을 몰라 데이터를 직접 조회하지 못하는 현장, 이미 고립�
 
 ## 🚀 Projects
 
-### Catus — AI 고양이와 쓰는 감성 그림일기
-> 창업동아리 · 기획 · UI 디자인 · 개발 전담 · Spring Boot · React · Gemini · [Live](https://catus-app.vercel.app) · [Backend](https://github.com/freaks0/catus-backend) · [Frontend](https://github.com/freaks0/catus-frontend)
+### Catus — 고립 전 청년을 위한 대화형 감정 기록 서비스
 
-<!-- TODO: 상태 표기 추가 (예: 창업은 중단 · 데모 운영 중) -->
+마음돌봄 서비스는 힘들어진 사람이 "찾아와야" 시작되지만, 이미 고립된 청년은
+서비스를 찾지 않습니다.  
+그래서 찾아오게 만드는 대신, 고립되기 전의 일상에
+미리 들어가 있도록 문제를 다시 정의했습니다.
 
-AI 고양이 달이와 대화하면 밤에 그림일기가 도착하는 청년 정서 지원 서비스입니다.
+그 접점을 가장 가벼운 형태로 만들었습니다.  
+고양이 "달이"와의 짧은 대화가
+그림일기가 되어 감정 기록이 쌓이고, 성향 변화를 담은 주간 편지가 오고,
+떠도는 일기를 주운 익명의 누군가에게 응원이 도착합니다.  
+AI가 대화에 없던 감정을 일기에 지어내지 못하게 하는 사실 충실성 장치도 넣었습니다.
 
-- 이미 고립된 청년은 찾기 어려워 대상을 **고립 전 청년**으로 재정의하고, 인터뷰로 찾은 "약점을 보이기 싫다"는 이유에서 익명 응원을 핵심 기능으로
-- 프롬프트를 규칙 보존 압축(14,043자 → 3,666자)해 응답 속도 6.8s → 1.5s, 월 운영비 0원으로 배포
-- 고립 위험군 조기 탐지 연구(논문 1저자): 통신 상대의 다양성을 엔트로피로 정량화한 HA-XGB로 F1 0.89, 고립이 점진적으로 심화된다는 결과로 "고립 전" 방향을 뒷받침
+- 기획 - 개발 - 배포 - 운영 1인 수행
+- Spring Boot 3 · PostgreSQL · Gemini · React 19
 
----
+[Live Demo](https://catus-app.vercel.app) · [저장소·기술 문서](https://github.com/freaks0/catus-backend) · [트러블슈팅](https://github.com/freaks0/catus-backend/blob/main/docs/04-troubleshooting.md)
 
 ### RealCite — AI 논문 인용 검증 도구
 > 개인 프로젝트 · TypeScript · Cloudflare Pages · [Live](https://citeguard-bzv.pages.dev) · [Repo](https://github.com/freaks0/realcite)
