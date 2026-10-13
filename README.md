@@ -63,7 +63,7 @@ AI가 찾아준 참고문헌은 그럴듯할수록 위험합니다.
 ---
 
 ### Text-to-SQL with a 4B SLM — 산업 시계열 데이터
-연구 · 1저자 · AIDataSci @ KDD 2026 · 한국정보기술학회논문지(JKIIT) · 코드 공개 준비 중
+연구 · 1저자 · AIDataSci @ KDD 2026 · 한국정보기술학회논문지(JKIIT)
 
 <!-- TODO: 위 메타 줄 끝에 논문 링크 추가 (예: · [Paper](URL)) -->
 
