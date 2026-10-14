@@ -29,7 +29,7 @@ SQL을 몰라 데이터를 직접 조회하지 못하는 현장, 이미 고립�
 ## 🚀 Projects
 
 ### Catus — 고립 전 청년을 위한 대화형 감정 기록 서비스
-[Live Demo](https://catus-app.vercel.app) · [저장소·기술 문서](https://github.com/freaks0/catus-backend)
+[Live Demo](https://catus-app.vercel.app) · [기획·설계 문서](https://github.com/freaks0/catus)
 
 마음돌봄 서비스는 힘들어진 사람이 "찾아와야" 시작되지만, 이미 고립된 청년은
 서비스를 찾지 않습니다.  
@@ -43,7 +43,7 @@ SQL을 몰라 데이터를 직접 조회하지 못하는 현장, 이미 고립�
 떠도는 일기를 주운 익명의 누군가에게 응원이 도착합니다.  
 AI가 대화에 없던 감정을 일기에 지어내지 못하게 하는 사실 충실성 장치도 넣었습니다.
 
-- 기획 - 개발 - 배포 - 운영 1인 수행 (무료 인프라로 운영 중)
+- 기획 - 개발 - 배포 - 운영 1인 수행, 무료 티어 인프라에서 일부 사용자 테스트 중 (정식 출시 준비)
 - Spring Boot 3 · PostgreSQL · Gemini · React 19
 
 ---
