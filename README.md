@@ -29,7 +29,7 @@ SQL을 몰라 데이터를 직접 조회하지 못하는 현장, 이미 고립�
 ## 🚀 Projects
 
 ### Catus — 고립 전 청년을 위한 대화형 감정 기록 서비스
-[Live Demo](https://catus-app.vercel.app) · [기획·설계 문서](https://github.com/freaks0/catus)
+[Live Demo](https://catus-app.vercel.app) · [기획·설계 문서](https://freaks0.github.io/catus/)
 
 마음돌봄 서비스는 힘들어진 사람이 "찾아와야" 시작되지만, 이미 고립된 청년은
 서비스를 찾지 않습니다.  
