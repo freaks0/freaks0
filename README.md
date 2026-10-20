@@ -61,26 +61,24 @@ AI가 찾아 준 논문 중 일부는 존재하지 않거나 여러 논문이 �
 
 ## 📄 Publications
 
-<!-- TODO: GLOW @ IJCAI 2026 논문은 Springer CCIS 게재 후 링크 추가. KICS 2026 하계와 IEIE ESS 논문은 DBpia 등재 후 링크 교체 -->
-
 **First author**
 
 | Date | Title | Venue |
 |---|---|---|
-| 2026.08 | [Structured EXPLAIN Feedback Improves SQL Generation with a 4B SLM on Industrial Time-Series Data](https://usail-hkust.github.io/aidatasci/assets/papers/structured-explain-feedback.pdf) | AIDataSci @ KDD |
-| 2026.07 | [Improving SQL Generation on Industrial Time-Series Data with Structured EXPLAIN Feedback using a 4B SLM](https://doi.org/10.14801/jkiit.2026.24.7.81) | 한국정보기술학회논문지 |
-| 2026.06 | [한국 산업 전력 이상 탐지를 위한 업종 조건화 전략의 예비 비교: 설계 및 예비 분석](https://conf.kics.or.kr/2026s/program) | 한국통신학회 하계 |
-| 2026.02 | [통신 메타데이터의 엔트로피 분석과 하이브리드 딥러닝 기반 청년 고립 탐지](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12738565) | 한국통신학회 동계 |
+| 2026.08 | Structured EXPLAIN Feedback Improves SQL Generation with a 4B SLM on Industrial Time-Series Data | AIDataSci @ KDD |
+| 2026.07 | Improving SQL Generation on Industrial Time-Series Data with Structured EXPLAIN Feedback using a 4B SLM | 한국정보기술학회논문지 |
+| 2026.06 | 한국 산업 전력 이상 탐지를 위한 업종 조건화 전략의 예비 비교: 설계 및 예비 분석 | 한국통신학회 하계 |
+| 2026.02 | 통신 메타데이터의 엔트로피 분석과 하이브리드 딥러닝 기반 청년 고립 탐지 | 한국통신학회 동계 |
 
 **Co-author**
 
 | Date | Title | Venue |
 |---|---|---|
-| 2026.08 | [LLM Priors for Sample-Efficient Industrial Control in Digital-Twin Simulation](https://usail-hkust.github.io/aidatasci/assets/papers/llm-priors-industrial-control.pdf) | AIDataSci @ KDD |
-| 2026.08 | [Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial Reinforcement Learning](https://sites.google.com/view/udmkdd26/home) | UDM @ KDD |
+| 2026.08 | LLM Priors for Sample-Efficient Industrial Control in Digital-Twin Simulation | AIDataSci @ KDD |
+| 2026.08 | Less Can Be Safer: Tail-Risk Reduction via Capacity-Constrained Policies in Industrial Reinforcement Learning | UDM @ KDD |
 | 2026.08 | When Curriculum Becomes Critical: Automated Physics-Grounded Task Progressions for Open Quantum Control | GLOW @ IJCAI |
-| 2026.06 | [금속·화학 산업 전력 데이터에서의 Regime 구조 분석과 이상탐지 활용성 평가](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12992697) | 대한전자공학회 하계 |
-| 2026.06 | [물리 제약 기반 Attention-LSTM 오토인코더와 SHAP을 활용한 ESS 배터리 이상탐지 및 원인 해석](https://conf.theieie.org/2026s/download/session_program_20260605.pdf) | 대한전자공학회 하계 |
+| 2026.06 | 금속·화학 산업 전력 데이터에서의 Regime 구조 분석과 이상탐지 활용성 평가 | 대한전자공학회 하계 |
+| 2026.06 | 물리 제약 기반 Attention-LSTM 오토인코더와 SHAP을 활용한 ESS 배터리 이상탐지 및 원인 해석 | 대한전자공학회 하계 |
 
 ---
 
