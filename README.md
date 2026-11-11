@@ -4,7 +4,7 @@
 
 <p>AI Developer</p>
 
-<p><b>현상 뒤에 숨은 진짜 문제를 찾고, AI로 풀어냅니다.</b></p>
+<p><b>현상 뒤에 숨은 진짜 문제를 찾고, 해결하는걸 좋아합니다.</b></p>
 
 [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freaks17489@gmail.com)
 [![](https://img.shields.io/badge/Publications-1st--author%204%20%C2%B7%20Co--author%205-1a4d8f?style=for-the-badge&logo=googlescholar&logoColor=white)](#-publications)
